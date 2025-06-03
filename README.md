@@ -40,3 +40,7 @@ This project is part of my internship work under **Pinnacle Labs** as a Cybersec
 
 - Abin Shaji Thomas
 - Cybersecurity Intern – Pinnacle Labs
+
+## 📄 License
+
+This project is licensed under the MIT License
