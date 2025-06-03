@@ -41,6 +41,12 @@ This project is part of my internship work under **Pinnacle Labs** as a Cybersec
 - Abin Shaji Thomas
 - Cybersecurity Intern – Pinnacle Labs
 
+## 📷 Screenshot
+<p align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Password-Analyzer/blob/main/Screenshots/GUI.png" />
+</p>
+  
+
 ## 📄 License
 
 This project is licensed under the MIT License
