@@ -45,6 +45,10 @@ This project is part of my internship work under **Pinnacle Labs** as a Cybersec
 <p align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Password-Analyzer/blob/main/Screenshots/GUI.png" />
 </p>
+<p align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Password-Analyzer/blob/main/Screenshots/password_check_1.png" width="45%" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Password-Analyzer/blob/main/Screenshots/password_check_2.png" width="45%" />
+</p>
   
 
 ## 📄 License
