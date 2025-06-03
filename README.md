@@ -20,6 +20,10 @@ This project is part of my internship work under **Pinnacle Labs** as a Cybersec
 - Clean and user-friendly GUI using Tkinter
 - Color-coded strength meter for visual feedback
 
+## 📽️ Video Demonstration  
+Watch the full demo video on LinkedIn:  
+🔗 https://www.linkedin.com/posts/abin-shaji-thomas_cybersecurity-passwordsecurity-python-activity-7335606617159147521-bjqQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFElLGwBJkG1pcIp0cEol0St3SCjiFhf1xg
+
 ## 🖥️ Technologies Used
 
 - **Python 3**
