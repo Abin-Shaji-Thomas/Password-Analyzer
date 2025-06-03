@@ -37,5 +37,6 @@ This project is part of my internship work under **Pinnacle Labs** as a Cybersec
    
 
 ## 👨‍💻 Developer
-Abin Shaji Thomas
-Cybersecurity Intern – Pinnacle Labs
+
+- Abin Shaji Thomas
+- Cybersecurity Intern – Pinnacle Labs
