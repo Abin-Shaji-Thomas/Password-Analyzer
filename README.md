@@ -34,7 +34,8 @@ This project is part of my internship work under **Pinnacle Labs** as a Cybersec
 3. Run the main Python file:
    ```bash
    python password_analyzer.py
+   
 
-👨‍💻 Developer
+## 👨‍💻 Developer
 Abin Shaji Thomas
 Cybersecurity Intern – Pinnacle Labs
