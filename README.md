@@ -57,4 +57,4 @@ Watch the full demo video on LinkedIn:
 
 ## 📄 License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
